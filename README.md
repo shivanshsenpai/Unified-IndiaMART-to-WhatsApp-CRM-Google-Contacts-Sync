@@ -1,5 +1,3 @@
-# Unified-IndiaMART-to-WhatsApp-CRM-Google-Contacts-Sync
-A robust, thread-safe Google Apps Script architecture that automates the entire lead pipeline. It directly ingests leads from the IndiaMART API, cleans and deduplicates them in Google Sheets, categorizes them using regex rules, dynamically formats names to bypass WhatsApp's 256-member broadcast limit, and automatically syncs them to Google Contacts
 # Unified IndiaMART to WhatsApp CRM & Google Contacts Sync
 
 This project transforms a standard Google Sheet into a fully automated CRM pipeline. It bridges the gap between raw lead generation (IndiaMART) and actionable outreach (WhatsApp and Google Contacts), completely bypassing Google Apps Script’s native execution timeouts and API rate limits through advanced state management and thread-safe locking.
